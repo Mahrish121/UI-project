@@ -1,0 +1,20 @@
+label
+{
+color: brown;
+}
+body{
+    height: 100%;
+    width: 100%;
+    background: url('../images/bg.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+}
+
+.login-container, .login-container-card{
+    height: 800px;
+    width: 400px;
+    text-align: center;
+    align-content: center;
+}
